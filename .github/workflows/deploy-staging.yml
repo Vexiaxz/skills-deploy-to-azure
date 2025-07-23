@@ -7,10 +7,10 @@ on:
 env:
   IMAGE_REGISTRY_URL: ghcr.io
   ###############################################
-  ### Replace vexiaxz with GitHub username ###
+  ### Replace joshua with GitHub username ###
   ###############################################
-  DOCKER_IMAGE_NAME: vexiaxz-azure-ttt
-  AZURE_WEBAPP_NAME: vexiaxz-ttt-app
+  DOCKER_IMAGE_NAME: joshua-azure-ttt
+  AZURE_WEBAPP_NAME: joshua-ttt-app
 
 jobs:
   build:
