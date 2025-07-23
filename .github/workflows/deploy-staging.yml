@@ -11,7 +11,6 @@ env:
   ###############################################
   DOCKER_IMAGE_NAME: vexiaxz-azure-ttt
   AZURE_WEBAPP_NAME: vexiaxz-ttt-app
-  ###############################################
 
 jobs:
   build:
